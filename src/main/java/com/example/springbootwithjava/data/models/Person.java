@@ -1,4 +1,4 @@
-package com.example.springbootwithjava.models;
+package com.example.springbootwithjava.data.models;
 
 import java.io.Serializable;
 
